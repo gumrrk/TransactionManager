@@ -12,6 +12,7 @@ export const StyledHeader = styled.header`
 
     img {
         cursor: pointer;
+        width: 13.75rem;
     }
 `
 

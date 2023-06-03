@@ -1,5 +1,5 @@
 import { StyledHeader, StyledContainerHeader } from "./style";
-import Logo from "../../assets/nukenzie.svg";
+import Logo from "../../assets/TransactionManager.svg";
 
 export const Header = () => {
   const handleLogoClick = () => {
