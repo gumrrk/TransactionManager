@@ -29,7 +29,7 @@ export const StyledCard = styled.li`
   }
 
   section[datatype="Saída"] {
-    border-left: 0.25rem solid var(--color-grey-2);
+    border-left: 0.25rem solid var(--color-color-secondary-2);
   }
 
   button {
